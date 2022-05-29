@@ -1,7 +1,7 @@
 
 clone the frontend as well as backend.
 for frontend:
-npm install
+npm install,
 npm start
 
 
@@ -10,7 +10,7 @@ In mongodb compass
 run connection string:mongodb://localhost:27017/microkart
 
 for backend
-npm install
+npm install,
 npm start
 
 now register , then login .
