@@ -1,0 +1,60 @@
+.rating {
+    width:300px;
+    margin-left: 80px;
+}
+.text-center pt-1 pb-3{
+      width:300px;
+    margin-left: 100px;
+}
+
+.CART {
+  transition-duration: 0.4s;
+    color: #000000; /* Green */
+
+  border-radius: 20px;
+
+
+}
+
+.CART:hover {
+  background-color: #cccccc; /* Green */
+  color: white;
+
+  border-radius: 20px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.PRODUCT {
+  transition-duration: 0.4s;
+    color: #000000; /* Green */
+
+  border-radius: 20px;
+
+
+}
+
+.PRODUCT:hover {
+  background-color: #cccccc; /* Green */
+  color: white;
+
+  border-radius: 20px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.ant-tabs {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: 'tnum', "tnum";
+    display: flex;
+}
+.ant-tabs-top, .ant-tabs-bottom {
+    flex-direction: column;
+}
+

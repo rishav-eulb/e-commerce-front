@@ -1,0 +1,92 @@
+
+.LOGIN {
+  transition-duration: 0.4s;
+    color: #000000; /* Green */
+  margin-right:70px;
+
+  border-radius: 12px;
+
+}
+
+.LOGIN:hover {
+  background-color: #cccccc; /* Green */
+  color: white;
+
+  border-radius: 12px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.HOME {
+  transition-duration: 0.4s;
+    color: #000000; /* Green */
+
+  border-radius: 12px;
+
+
+
+}
+
+.HOME:hover {
+  background-color: #cccccc; /* Green */
+  color: white;
+
+  border-radius: 12px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.REGISTER {
+  transition-duration: 0.4s;
+    color: #000000; /* Green */
+
+  margin-left: -170px;
+  border-radius: 12px;
+
+}
+
+.REGISTER:hover {
+  background-color: #cccccc; /* Green */
+  color: white;
+
+  border-radius: 12px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.CART {
+  transition-duration: 0.4s;
+    color: #000000; /* Green */
+
+  border-radius: 12px;
+
+
+}
+
+.CART:hover {
+  background-color: #cccccc; /* Green */
+  color: white;
+
+  border-radius: 12px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.SHOP {
+  transition-duration: 0.4s;
+    color: #000000; /* Green */
+
+  border-radius: 12px;
+
+
+}
+
+.SHOP:hover {
+  background-color: #cccccc; /* Green */
+  color: white;
+
+  border-radius: 12px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.SEARCH {
+  margin-right: 870px;
+}
