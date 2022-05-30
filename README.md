@@ -7,7 +7,7 @@ npm start
 
 
 In mongodb compass 
-run connection string:mongodb://localhost:27017/microkart
+run connection string:mongodb+srv://raju:raju22458456@cluster0.d0dht.mongodb.net/microkart
 
 for backend
 npm install,
