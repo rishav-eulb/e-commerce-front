@@ -12,3 +12,6 @@ now register , then login .
 you will see e-commerce website.
 
 enjoy!
+
+
+If you want see the host app ,you can click on this link:  http://159.65.154.244/
