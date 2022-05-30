@@ -4,25 +4,11 @@ for frontend:
 npm install,
 npm start
 
-
-
-In mongodb compass 
-run connection string:mongodb+srv://raju:raju22458456@cluster0.d0dht.mongodb.net/microkart
-
 for backend
 npm install,
 npm start
 
 now register , then login .
+you will see e-commerce website.
 
-after logging in: go to mongo db compass 
-database: microkart
-collection: users
-
-You will see your register id in the collection ,
-now in the collection  change the subscriber to admin.
-
-go to localhost:3000/admin/dashboard
-add your laptop ,
-go to home page , localhost:3000/
-you will see your laptop.
+enjoy!
