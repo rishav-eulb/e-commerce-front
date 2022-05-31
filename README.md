@@ -15,7 +15,7 @@
 6.enjoy!
 
 
-**If you want see the host app ,you can click on this link:  http://159.65.154.244/**
+**If you want to see the host app ,you can click on this link:  http://159.65.154.244/**
 
 
 1.![This is an image](https://user-images.githubusercontent.com/77015951/171120338-4b21f7f1-d332-4edd-bafe-9353f07e3b7b.png)
