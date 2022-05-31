@@ -23,12 +23,16 @@ All the latest Laptops uploaded by the admin will be showcased here.
 Number of products available, is also indicated by add to carts or out of carts button.
 </br>
 </br>
+</br>
 
 
 
 
 ![This is an image](https://user-images.githubusercontent.com/77015951/171121271-81f82167-a885-4922-a66b-6ba437147196.png)
 Admin page, where admin can create,update as well as delete the products,categories,subcategories.
+</br>
+</br>
+</br>
 
 
 
@@ -36,7 +40,9 @@ Admin page, where admin can create,update as well as delete the products,categor
 ![This is an image](https://user-images.githubusercontent.com/77015951/171121488-2b61cca6-3947-4528-9fa8-473ca908209a.png)
 Different types of sorting Algorithms is being used in order to get related products.
 A New rating model has also been introduced ,which will fetch average rating .
-
+</br>
+</br>
+</br>
 
 
 
