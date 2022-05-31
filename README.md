@@ -21,8 +21,8 @@
 ![This is an image](https://user-images.githubusercontent.com/77015951/171120338-4b21f7f1-d332-4edd-bafe-9353f07e3b7b.png)
 All the latest Laptops uploaded by the admin will be showcased here.
 Number of products available, is also indicated by add to carts or out of carts button.
-/n
-/n
+</br>
+</br>
 
 
 
