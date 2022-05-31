@@ -21,6 +21,14 @@
 **If you want to see the host app ,you can click on this link:  http://159.65.154.244/**
 
 
+
+2.![This is an image](https://user-images.githubusercontent.com/77015951/171123974-2fea3fae-e2c9-410a-9caf-27e9456e01fd.png)
+In order to make the website more secure, I have built full fledged signup, login page .
+</br>
+</br>
+</br>
+
+
 1.![This is an image](https://user-images.githubusercontent.com/77015951/171120338-4b21f7f1-d332-4edd-bafe-9353f07e3b7b.png)
 All the latest Laptops uploaded by the admin will be showcased here.
 Number of products available, is also indicated by add to carts or out of carts button.
